@@ -1,6 +1,7 @@
 - 👋 Hi, I’m prakash pandey
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning  javascript
+- 🌱 I’m interested in exploring the new things
+- 🌱 I’m currently learning  javascript/Ruby On Rails 
 - 📫 How to reach me it depend on your click https://www.linkedin.com/in/prakash-pandey-a8323b164/
 
 <!---
